@@ -1,0 +1,236 @@
+.step-icon-base {
+  overflow: hidden;
+}
+
+.step-icon-base .dot {
+  position: relative;
+}
+
+.step-icon-base .status-complete-size {
+  height: 24px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 24px !important;
+}
+
+.step-icon-base .instance-node {
+  height: 32px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 32px !important;
+}
+
+.step-icon-base .status-complete-size-2 {
+  height: 40px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 40px !important;
+}
+
+.step-icon-base.md {
+  border-radius: 16px;
+  height: 32px;
+  width: 32px;
+}
+
+.step-icon-base.sm {
+  border-radius: 12px;
+  height: 24px;
+  width: 24px;
+}
+
+.step-icon-base.complete {
+  background-color: var(--gray-50);
+}
+
+.step-icon-base.lg {
+  border-radius: 20px;
+  height: 40px;
+  width: 40px;
+}
+
+.step-icon-base.current {
+  box-shadow: var(--focus-ring-4px-primary-100);
+}
+
+.step-icon-base.default.current {
+  background-color: var(--primary-50);
+}
+
+.step-icon-base.focused.current {
+  background-color: var(--primary-50);
+}
+
+.step-icon-base.hover.current {
+  background-color: var(--primary-100);
+}
+
+.step-icon-base.dark.default.incomplete {
+  background-color: var(--gray-100);
+}
+
+.step-icon-base.default.incomplete.mid {
+  background-color: var(--white);
+}
+
+.step-icon-base.hover.incomplete.mid {
+  background-color: var(--gray-50);
+}
+
+.step-icon-base.dark.hover.incomplete {
+  background-color: var(--gray-200);
+}
+
+.step-icon-base.focused.incomplete.mid {
+  background-color: var(--white);
+}
+
+.step-icon-base.default.incomplete.light {
+  background-color: var(--gray-50);
+}
+
+.step-icon-base.dark.focused.incomplete {
+  background-color: var(--gray-100);
+}
+
+.step-icon-base.hover.incomplete.light {
+  background-color: var(--gray-100);
+}
+
+.step-icon-base.focused.incomplete.light {
+  background-color: var(--gray-50);
+}
+
+.step-icon-base.md .content {
+  border-radius: 16px;
+  height: 32px;
+}
+
+.step-icon-base.sm .content {
+  border-radius: 12px;
+  height: 24px;
+}
+
+.step-icon-base.lg .content {
+  border-radius: 20px;
+  height: 40px;
+}
+
+.step-icon-base.sm.mid .content {
+  border: 1.5px solid;
+}
+
+.step-icon-base.current.mid .content {
+  border-color: var(--primary-600);
+}
+
+.step-icon-base.incomplete.mid .content {
+  border-color: var(--gray-200);
+}
+
+.step-icon-base.md.mid .content {
+  border: 2px solid;
+}
+
+.step-icon-base.lg.mid .content {
+  border: 2px solid;
+}
+
+.step-icon-base.dark.default.current .content {
+  background-color: var(--primary-600);
+}
+
+.step-icon-base.focused.current.mid .content {
+  background-color: var(--primary-50);
+}
+
+.step-icon-base.default.current.light .content {
+  background-color: var(--primary-50);
+}
+
+.step-icon-base.default.current.mid .content {
+  background-color: var(--primary-50);
+}
+
+.step-icon-base.dark.focused.current .content {
+  background-color: var(--primary-600);
+}
+
+.step-icon-base.hover.current.mid .content {
+  background-color: var(--primary-100);
+}
+
+.step-icon-base.dark.hover.current .content {
+  background-color: var(--primary-700);
+}
+
+.step-icon-base.hover.current.light .content {
+  background-color: var(--primary-100);
+}
+
+.step-icon-base.focused.current.light .content {
+  background-color: var(--primary-50);
+}
+
+.step-icon-base.md .dot {
+  border-radius: 5px;
+  height: 10px;
+  left: 11px;
+  top: 11px;
+  width: 10px;
+}
+
+.step-icon-base.sm .dot {
+  border-radius: 4px;
+  height: 8px;
+  left: 8px;
+  top: 8px;
+  width: 8px;
+}
+
+.step-icon-base.lg .dot {
+  border-radius: 6px;
+  height: 12px;
+  left: 14px;
+  top: 14px;
+  width: 12px;
+}
+
+.step-icon-base.dark .dot {
+  background-color: var(--white);
+}
+
+.step-icon-base.current.light .dot {
+  background-color: var(--primary-600);
+}
+
+.step-icon-base.current.mid .dot {
+  background-color: var(--primary-600);
+}
+
+.step-icon-base.incomplete.mid .dot {
+  background-color: var(--gray-200);
+}
+
+.step-icon-base.light.complete .dot {
+  background-color: var(--gray-200);
+}
+
+.step-icon-base.complete.mid .dot {
+  background-color: var(--gray-200);
+}
+
+.step-icon-base.default.incomplete.light .dot {
+  background-color: var(--gray-200);
+}
+
+.step-icon-base.hover.incomplete.light .dot {
+  background-color: var(--gray-300);
+}
+
+.step-icon-base.focused.incomplete.light .dot {
+  background-color: var(--gray-200);
+}

@@ -1,0 +1,12 @@
+.navbar {
+  height: 84px;
+  left: 205px;
+  position: relative;
+  top: 53px;
+  width: 1070px;
+}
+
+.navbar .frame-9 {
+  left: unset !important;
+  top: 1px !important;
+}

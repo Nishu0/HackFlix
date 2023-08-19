@@ -1,0 +1,138 @@
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set your desired font and background colors */
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f8f8f8;
+  color: #333333;
+}
+
+/* Contact section styles */
+#contact {
+  padding: 80px 0;
+}
+
+/* Heading styles */
+h5 {
+  font-size: 1rem;
+  color: #666666;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+/* Container for contact options and form */
+.contact_container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+/* Contact options styles */
+.contact_options {
+  flex-basis: 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.contact_option {
+  background-color: var(--color-bg-variant);
+  padding: 1.2rem;
+  border-radius: 1.2rem;
+  text-align: center;
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.contact_option:hover {
+  background-color: transparent;
+  border-color: var(--color-primary-variant);
+}
+
+.contact_option_icon {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 1rem;
+}
+
+.contact_option h4 {
+  font-size: 1rem;
+  color: #333333;
+  margin-bottom: 0.5rem;
+}
+
+.contact_option h5 {
+  font-size: 0.875rem;
+  color: #666666;
+  margin-bottom: 0.5rem;
+}
+
+.contact_option a {
+  margin-top: 0.7rem;
+  display: inline-block;
+  font-size: 0.8rem;
+}
+
+/* Contact form styles */
+.contact_form {
+  flex-basis: 55%;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.contact_form input,
+.contact_form textarea {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  background-color: #ffffff;
+  transition: border-color 0.3s ease-in-out;
+}
+
+.contact_form input:focus,
+.contact_form textarea:focus {
+  border-color: #007bff;
+}
+
+.contact_form textarea {
+  resize: vertical;
+}
+
+.contact_form button {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.contact_form button:hover {
+  background-color: #0056b3;
+}
+
+/* Media Queries */
+@media screen and (max-width: 1024px) {
+  .contact_container {
+    flex-direction: column;
+    align-items: center;
+  }
+}

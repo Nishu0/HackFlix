@@ -1,0 +1,178 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set your desired font and background colors */
+  body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #34495e;
+    color: #ffffff; /* Text color */
+  }
+  
+  /* Style for the FAQ container */
+  .container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 2rem auto;
+  }
+  
+  /* Style for the FAQ heading */
+  .font-bold {
+    font-weight: bold;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .text-xl {
+    font-size: 1.25rem; /* Adjust as needed */
+  }
+  
+  .mb-4 {
+    margin-bottom: 1rem;
+  }
+  
+  /* Style for the FAQ list */
+  .grid {
+    display: grid;
+    gap: 1.5rem; /* Adjust as needed */
+  }
+  
+  /* Style for the FAQ items */
+  .group {
+    position: relative;
+  }
+  
+  /* Style for the checkbox label */
+  .label {
+    display: block;
+    position: relative;
+    padding: 1rem 3rem 1rem 1rem;
+    min-height: 3.5rem;
+    line-height: 1.25rem;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid #34495e;
+    border-radius: 0.5rem;
+  }
+  
+  /* Style for the expanded label */
+  .label.expanded {
+    background-color: #34495e; /* Background color when expanded */
+  }
+  
+  /* Style for the plus/minus sign */
+  .label::after {
+    content: "+";
+    font-size: 1.5rem;
+    color: red; /* Change color to red */
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    transform: translateY(-50%);
+  }
+  
+  /* Style for the minus sign when expanded */
+  .label.expanded::after {
+    content: "-";
+  }
+  
+  /* Style for the answer container */
+  .answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+  
+  /* Style for the answer content */
+  .answer-content {
+    padding: 1rem;
+    line-height: 1.5rem;
+    border-top: 1px solid #34495e;
+  }
+  
+  /* Contact Container */
+.contact {
+    width: 58%;
+    display: grid;
+    grid-template-columns: 30% 58%;
+    gap: 12%;
+    height: 100%;
+    position: relative;
+    width: var(--container-width-lg);
+    margin: 0 auto;
+  }
+  
+  /* Contact Options */
+  .contact_options {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+  }
+  
+  /* Contact Option */
+  .contact_option {
+    background: var(--color-bg-variant);
+    padding: 1.2rem;
+    border-radius: 1.2rem;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: var(--transition);
+  }
+  
+  .contact_option:hover {
+    background: transparent;
+    border-color: var(--color-primary-variant);
+  }
+  
+  /* Contact Option Icon */
+  .contact_option_icon {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Contact Option Link */
+  .contact_option a {
+    margin-top: 0.7rem;
+    display: inline-block;
+    font-size: 0.8rem;
+  }
+  
+  /* Contact Form */
+  .contact_form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+  }
+  
+  /* Contact Form Input and Textarea */
+  input,
+  textarea {
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    border: 2px solid var(--color-primary-variant);
+    resize: none;
+    color: var(--color-white);
+  }
+  
+  /* Media Queries (Medium Devices) */
+  @media screen and (max-width: 1024px) {
+    .contact {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+  }
+  
+  /* Media Queries (Small Devices) */
+  @media screen and (max-width: 600px) {
+    .contact {
+      width: var(--container-width-sm);
+    }
+  }
+  

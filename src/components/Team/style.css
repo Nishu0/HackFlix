@@ -1,0 +1,243 @@
+.team {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 41px;
+  position: relative;
+  top: 20px;
+}
+
+.team .frame-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 13px;
+  position: relative;
+  width: 974px;
+}
+
+.team .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 83px;
+  height: 17px;
+  position: relative;
+  width: 590.55px;
+}
+
+.team .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.54px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.team .management {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.54px;
+  line-height: normal;
+  margin-right: -3.45px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.team .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 5px;
+  position: relative;
+  width: 858px;
+}
+
+.team .rectangle-4 {
+  background-color: #8d8d8d;
+  height: 5px;
+  position: relative;
+  width: 118px;
+}
+
+.team .rectangle-5 {
+  height: 5px;
+  position: relative;
+  width: 118px;
+}
+
+.team .rectangle-6 {
+  background-color: #8d8d8d;
+  height: 5px;
+  position: relative;
+  width: 50px;
+}
+
+.team .rectangle-7 {
+  height: 5px;
+  position: relative;
+  width: 118px;
+}
+
+.team .rectangle-8 {
+  height: 5px;
+  position: relative;
+  width: 118px;
+}
+
+.team .rectangle-9 {
+  height: 5px;
+  position: relative;
+  width: 118px;
+}
+
+.team .team-data {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 265px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: relative;
+  width: 1033px;
+}
+
+.team .overlap-group-wrapper {
+  height: 264.67px;
+  position: relative;
+  width: 184px;
+}
+
+.team .div-wrapper {
+  background-image: url(../../../static/img/rectangle-21-33.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 265px;
+  position: relative;
+  width: 182px;
+}
+
+.team .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 216px;
+}
+
+.team .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 216px;
+}
+
+.team.team-state2 {
+  left: 1093px;
+}
+
+.team.team-state1 {
+  left: 20px;
+}
+
+.team.team-state3 {
+  left: 3239px;
+}
+
+.team.team-state4 {
+  left: 2166px;
+}
+
+.team.team-state2 .rectangle-5 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state1 .rectangle-5 {
+  background-color: #fc0000;
+}
+
+.team.team-state3 .rectangle-5 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state4 .rectangle-5 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state2 .rectangle-7 {
+  background-color: #ff0000;
+}
+
+.team.team-state1 .rectangle-7 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state3 .rectangle-7 {
+  background-color: #a2a2a2;
+}
+
+.team.team-state4 .rectangle-7 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state2 .rectangle-8 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state1 .rectangle-8 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state3 .rectangle-8 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state4 .rectangle-8 {
+  background-color: #ff0000;
+}
+
+.team.team-state2 .rectangle-9 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state1 .rectangle-9 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state3 .rectangle-9 {
+  background-color: #ff0000;
+}
+
+.team.team-state4 .rectangle-9 {
+  background-color: #8d8d8d;
+}
+
+.team.team-state2 .text-wrapper-3 {
+  left: 24px;
+}
+
+.team.team-state1 .text-wrapper-3 {
+  left: 23px;
+}
+
+.team.team-state3 .text-wrapper-3 {
+  left: 23px;
+}
+
+.team.team-state4 .text-wrapper-3 {
+  left: 23px;
+}

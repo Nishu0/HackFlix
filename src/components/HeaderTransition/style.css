@@ -1,0 +1,69 @@
+.header-transition.property-frame {
+  height: 218px;
+  left: 631px;
+  position: relative;
+  top: 20px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+
+.header-transition .group {
+  height: 218px;
+  position: relative;
+}
+
+.header-transition .overlap-group {
+  height: 218px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 168px;
+}
+
+.header-transition .rectangle {
+  background-color: #fc0000;
+  height: 34px;
+  left: -91px;
+  position: absolute;
+  top: 92px;
+  transform: rotate(-90.24deg);
+  width: 217px;
+}
+
+.header-transition .div {
+  background-color: #fc0000;
+  height: 36px;
+  left: -22px;
+  position: absolute;
+  top: 91px;
+  transform: rotate(-90.24deg);
+  width: 217px;
+}
+
+.header-transition .rectangle-2 {
+  background-color: #fc0000;
+  box-shadow: 0px 0px 16px #000000;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 87px;
+  width: 168px;
+}
+
+.header-transition .rectangle-3 {
+  background-color: #fc0000;
+  box-shadow: 0px 0px 16px #000000;
+  height: 37px;
+  left: 68px;
+  position: absolute;
+  top: 0;
+  width: 106px;
+}
+
+.header-transition.img {
+  height: 146px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}

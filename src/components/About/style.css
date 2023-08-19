@@ -1,0 +1,67 @@
+.about {
+  align-items: flex-end;
+  display: inline-flex;
+  position: relative;
+}
+
+.about .image {
+  height: 708px;
+  object-fit: cover;
+  position: relative;
+  width: 785px;
+}
+
+.about .frame-6 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 43px;
+  margin-left: -360px;
+  position: relative;
+}
+
+.about .ABOUT-US {
+  flex: 0 0 auto;
+  margin-top: -2.49px;
+  position: relative;
+}
+
+.about .p {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: justify;
+  width: 711px;
+}
+
+.about .frame-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 43px;
+  position: relative;
+}
+
+.about .image-2 {
+  height: 786.39px;
+  margin-left: -360px;
+  object-fit: cover;
+  position: relative;
+  width: 709.54px;
+}
+
+.about.about-state2 {
+  left: 20px;
+  top: 20px;
+}
+
+.about.about-state1 {
+  left: 1704px;
+  top: 143px;
+}

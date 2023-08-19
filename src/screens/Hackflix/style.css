@@ -1,0 +1,1515 @@
+
+
+
+.hackflix {
+  background-color: #070707;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.hackflix .div-2 {
+  background-color: #070707;
+  border: 1px none;
+  height: 9618px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.hackflix .header {
+  background-color: transparent;
+  height: 529px;
+  left: 240px;
+  position: absolute;
+  top: 281px;
+  width: 941px;
+}
+
+.hackflix .overlap-group-2 {
+  height: 529px;
+  position: relative;
+  width: 941px;
+}
+
+.hackflix .home {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 55px;
+  left: 98px;
+  position: absolute;
+  top: 59px;
+}
+
+.hackflix .front-header {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 92px;
+  position: relative;
+}
+
+.hackflix .tag-header {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.hackflix .text-header {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 64px;
+  position: relative;
+}
+
+.hackflix .img-2 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.hackflix .div-styles-tagline {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  position: relative;
+}
+
+.hackflix .heading {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.hackflix .text-wrapper-5 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(0, 209.1, 255) 18.75%, rgb(5.1, 255, 0) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: -1px;
+  position: relative;
+  text-fill-color: transparent;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hackflix .p-styles-taglinetext {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 20.25px 0px 19px;
+  position: relative;
+}
+
+.hackflix .india-s-largest {
+  color: #d6d6d6;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 679px;
+}
+
+.hackflix .social-header {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 14px;
+  position: relative;
+}
+
+.hackflix .a {
+  background-color: #000000;
+  border-radius: 24px;
+  height: 48px;
+  position: relative;
+  width: 48px;
+}
+
+.hackflix .twitter-svg {
+  height: 20px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+
+.hackflix .discord-svg {
+  height: 20px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 26px;
+}
+
+.hackflix .insta-svg {
+  height: 20px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 20px;
+}
+
+.hackflix .youtube-svg {
+  height: 20px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 28px;
+}
+
+.hackflix .mail-svg {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 10px;
+  padding: 0px 0px;
+  position: relative;
+  top: 14px;
+}
+
+.hackflix .image-3 {
+  height: 19.99px;
+  position: relative;
+  width: 27.58px;
+}
+
+.hackflix .linkedin-svg {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 14px;
+  position: relative;
+  top: 14px;
+}
+
+.hackflix .linkedin-c-svg {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.hackflix .vector-2 {
+  height: 260px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 941px;
+}
+
+.hackflix .mentors {
+  height: 998px;
+  left: 20px;
+  position: absolute;
+  top: 2564px;
+  width: 1404px;
+}
+
+.hackflix .overlap {
+  height: 923px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 1400px;
+}
+
+.hackflix .mentors-wrapper {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  height: 923px;
+  left: 240px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 0;
+  width: 1160px;
+}
+
+.hackflix .mentors-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 1113px;
+}
+
+.hackflix .mentors-3 {
+  height: 732.12px;
+  margin-right: -0.07px;
+  position: relative;
+  width: 1113.07px;
+}
+
+.hackflix .overlap-group-3 {
+  height: 732px;
+  position: relative;
+  width: 1113px;
+}
+
+.hackflix .frame-wrapper {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: -20px 0px;
+  height: 398px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1113px;
+}
+
+.hackflix .frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  margin-right: -50.93px;
+  position: relative;
+}
+
+.hackflix .group-3 {
+  background-image: url(../../../static/img/rectangle-21-32.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 314px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .frame-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 30px;
+  position: relative;
+  top: 224px;
+  width: 229px;
+}
+
+.hackflix .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 23px;
+  font-weight: 600;
+  height: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -37px;
+  margin-top: -1px;
+  position: relative;
+  width: 266px;
+}
+
+.hackflix .frame-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -8px;
+  position: relative;
+}
+
+.hackflix .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.hackflix .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -5px;
+  position: relative;
+  width: fit-content;
+}
+
+.hackflix .group-4 {
+  background-image: url(../../../static/img/rectangle-21-31.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 371px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .frame-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  left: 30px;
+  position: relative;
+  top: 265px;
+  width: 229px;
+}
+
+.hackflix .group-5 {
+  background-image: url(../../../static/img/rectangle-21-30.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 314px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .group-6 {
+  background-image: url(../../../static/img/rectangle-21-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 397px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .frame-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  left: 30px;
+  position: relative;
+  top: 283px;
+  width: 229px;
+}
+
+.hackflix .frame-15 {
+  align-items: flex-start;
+  border-radius: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px 0px;
+  height: 398px;
+  left: 0;
+  position: absolute;
+  top: 334px;
+  width: 1113px;
+}
+
+.hackflix .frame-16 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  justify-content: center;
+  margin-right: -50.93px;
+  position: relative;
+}
+
+.hackflix .group-7 {
+  background-image: url(../../../static/img/rectangle-21-28.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 397.5px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .frame-17 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  left: 30px;
+  position: relative;
+  top: 284px;
+  width: 229px;
+}
+
+.hackflix .group-8 {
+  background-image: url(../../../static/img/rectangle-21-27.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 341.5px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .frame-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 66px;
+  left: 30px;
+  position: relative;
+  top: 244px;
+  width: 229px;
+}
+
+.hackflix .group-9 {
+  background-image: url(../../../static/img/rectangle-21-26.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 397.5px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .group-10 {
+  background-image: url(../../../static/img/rectangle-21-25.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 309.5px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .frame-19 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 60px;
+  left: 30px;
+  position: relative;
+  top: 221px;
+  width: 229px;
+}
+
+.hackflix .frame-20 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.87px;
+  margin-top: -8px;
+  position: relative;
+}
+
+.hackflix .overlap-wrapper {
+  height: 732.12px;
+  margin-right: -51px;
+  position: relative;
+  width: 1164px;
+}
+
+.hackflix .overlap-2 {
+  height: 732px;
+  position: relative;
+}
+
+.hackflix .frame-21 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: -20px 0px;
+  height: 398px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1164px;
+}
+
+.hackflix .frame-22 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.hackflix .group-11 {
+  background-image: url(../../../static/img/rectangle-21-24.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 314px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .group-12 {
+  background-image: url(../../../static/img/rectangle-21-23.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 371px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .group-13 {
+  background-image: url(../../../static/img/rectangle-21-22.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 314px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .group-14 {
+  background-image: url(../../../static/img/rectangle-21-21.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 397px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .frame-23 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #000000;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px 0px;
+  height: 398px;
+  left: 0;
+  position: absolute;
+  top: 334px;
+  width: 1164px;
+}
+
+.hackflix .frame-24 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  justify-content: center;
+  position: relative;
+}
+
+.hackflix .group-15 {
+  background-image: url(../../../static/img/rectangle-21-20.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 397.5px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .group-16 {
+  background-image: url(../../../static/img/rectangle-21-19.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 341.5px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .group-17 {
+  background-image: url(../../../static/img/rectangle-21-18.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 397.5px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .group-18 {
+  background-image: url(../../../static/img/rectangle-21-17.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 309.5px;
+  position: relative;
+  width: 273px;
+}
+
+.hackflix .mentors-highlight {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 212px;
+  left: -125px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: 247px;
+  transform: rotate(90deg);
+  width: 461px;
+}
+
+.hackflix .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 361px;
+  letter-spacing: 3.5px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.hackflix .team-2 {
+  height: 341px;
+  left: 20px;
+  position: absolute;
+  top: 2137px;
+  width: 1402px;
+}
+
+.hackflix .overlap-3 {
+  height: 341px;
+  position: relative;
+  width: 1400px;
+}
+
+.hackflix .team-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1301px;
+}
+
+.hackflix .team-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 41px;
+  position: relative;
+}
+
+.hackflix .team-instance {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+}
+
+.hackflix .team-4 {
+  background-image: url(../../../static/img/rectangle-21-16.png) !important;
+}
+
+.hackflix .team-5 {
+  background-image: url(../../../static/img/rectangle-21-15.png) !important;
+}
+
+.hackflix .team-6 {
+  background-image: url(../../../static/img/rectangle-21-14.png) !important;
+}
+
+.hackflix .team-7 {
+  background-image: url(../../../static/img/rectangle-21-13.png) !important;
+}
+
+.hackflix .team-8 {
+  background-image: url(../../../static/img/rectangle-21-12.png) !important;
+}
+
+.hackflix .team-9 {
+  background-image: url(../../../static/img/rectangle-21-11.png) !important;
+}
+
+.hackflix .text-wrapper-11 {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 196px;
+  left: 1167px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: 90px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+  width: 270px;
+}
+
+.hackflix .COC {
+  height: 1481px;
+  left: 24px;
+  position: absolute;
+  top: 7275px;
+  width: 1391px;
+}
+
+.hackflix .COC-2 {
+  align-items: center;
+  display: flex;
+  gap: 41px;
+  height: 1481px;
+  position: relative;
+  width: 1391px;
+}
+
+.hackflix .coc-highlight {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 192px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  margin-left: -60px;
+  position: relative;
+  transform: rotate(90deg);
+  white-space: nowrap;
+  width: 312px;
+}
+
+.hackflix .COC-3 {
+  height: 1289px;
+  position: relative;
+  width: 1074px;
+}
+
+.hackflix .frame-25 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 115px;
+  position: absolute;
+  top: 0;
+  width: 243px;
+}
+
+.hackflix .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 3.5px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hackflix .the-following-is-a {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 1197px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: justify;
+  top: 92px;
+  width: 1072px;
+}
+
+.hackflix .text-wrapper-14 {
+  font-weight: 500;
+}
+
+.hackflix .text-wrapper-15 {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 40.9px;
+}
+
+.hackflix .text-wrapper-16 {
+  font-weight: 700;
+}
+
+.hackflix .footer {
+  height: 680px;
+  left: 92px;
+  position: absolute;
+  top: 8878px;
+  width: 1257px;
+}
+
+.hackflix .welcome {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 43px;
+  left: 189px;
+  position: absolute;
+  top: 986px;
+}
+
+.hackflix .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 1159px;
+}
+
+.hackflix .about-us {
+  height: 796px;
+  left: 17px;
+  position: absolute;
+  top: 1218px;
+  width: 1303px;
+}
+
+.hackflix .overlap-4 {
+  height: 796px;
+  position: relative;
+  width: 1301px;
+}
+
+.hackflix .about-highlight {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 199px;
+  left: -134px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: 134px;
+  transform: rotate(90deg);
+  white-space: nowrap;
+}
+
+.hackflix .about-instance {
+  left: 240px !important;
+  position: absolute !important;
+  top: 10px !important;
+}
+
+.hackflix .navbar-instance {
+  position: absolute !important;
+}
+
+.hackflix .FAQ {
+  align-items: center;
+  display: inline-flex;
+  gap: 170px;
+  left: 257px;
+  position: absolute;
+  top: 6827px;
+}
+
+.hackflix .contact {
+  height: 1481px;
+  left: 200px;
+  position: absolute;
+  top: 8400px;
+  width: 3000px;
+  align-items: center;
+}
+
+
+
+
+.hackflix .FAQ-2 {
+  height: 399px;
+  position: relative;
+  width: 783px;
+}
+
+.hackflix .faq-highlight {
+  color: #ffffff;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 350px;
+  letter-spacing: 3.5px;
+  line-height: normal;
+  position: absolute;
+  top: -30px;
+  white-space: nowrap;
+}
+
+.hackflix .frame-26 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 0;
+  position: absolute;
+  top: 85px;
+}
+
+.hackflix .frame-27 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 382px;
+  padding: 10px;
+  position: relative;
+}
+
+.hackflix .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 1.8px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.hackflix .group-19 {
+  height: 28px;
+  position: relative;
+  width: 28px;
+}
+
+.hackflix .text-wrapper-21 {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 268.87px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: relative;
+  transform: rotate(-90deg);
+  width: 180px;
+}
+
+.hackflix .community-partners {
+  height: 851px;
+  left: 20px;
+  position: absolute;
+  top: 4661px;
+  width: 1402px;
+}
+
+.hackflix .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 358px;
+  letter-spacing: 3.5px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.hackflix .comunity-partners {
+  align-items: center;
+  display: flex;
+  gap: 27px;
+  height: 757px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+  width: 1400px;
+}
+
+.hackflix .frame-28 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 623px;
+  overflow: scroll;
+  position: relative;
+}
+
+.hackflix .group-20 {
+  height: 677px;
+  position: relative;
+  width: 1093.36px;
+}
+
+.hackflix .group-21 {
+  height: 211px;
+  left: 0;
+  position: absolute;
+  top: 32px;
+  width: 318px;
+}
+
+.hackflix .text-wrapper-23 {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 201px;
+  left: 183px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: -67px;
+  transform: rotate(-90deg);
+  width: 67px;
+}
+
+.hackflix .rectangle-wrapper {
+  background-image: url(../../../static/img/rectangle-22-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 151px;
+}
+
+.hackflix .rectangle-15 {
+  height: 150px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 151px;
+}
+
+.hackflix .group-22 {
+  height: 219px;
+  left: 792px;
+  position: absolute;
+  top: 295px;
+  width: 303px;
+}
+
+.hackflix .text-wrapper-24 {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 201px;
+  left: 67px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: -67px;
+  transform: rotate(-90deg);
+  width: 67px;
+}
+
+.hackflix .rectangle-16 {
+  height: 150px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 69px;
+  width: 151px;
+}
+
+.hackflix .group-23 {
+  height: 182px;
+  left: 455px;
+  position: absolute;
+  top: 0;
+  width: 478px;
+}
+
+.hackflix .text-wrapper-25 {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 201px;
+  left: 67px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  transform: rotate(-90deg);
+  width: 67px;
+}
+
+.hackflix .rectangle-17 {
+  height: 150px;
+  left: 324px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 151px;
+}
+
+.hackflix .group-24 {
+  height: 150px;
+  left: 66px;
+  position: absolute;
+  top: 277px;
+  width: 519px;
+}
+
+.hackflix .text-wrapper-26 {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 201px;
+  left: 67px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  transform: rotate(-90deg);
+  width: 67px;
+}
+
+.hackflix .rectangle-18 {
+  height: 150px;
+  left: 366px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 151px;
+}
+
+.hackflix .group-25 {
+  height: 163px;
+  left: 127px;
+  position: absolute;
+  top: 514px;
+  width: 628px;
+}
+
+.hackflix .text-wrapper-27 {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 201px;
+  left: 492px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+  transform: rotate(-90deg);
+  width: 67px;
+}
+
+.hackflix .group-26 {
+  height: 677px;
+  position: relative;
+  width: 1216.3px;
+}
+
+.hackflix .group-27 {
+  height: 211px;
+  left: 123px;
+  position: absolute;
+  top: 32px;
+  width: 318px;
+}
+
+.hackflix .rectangle-19 {
+  height: 150px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 151px;
+}
+
+.hackflix .group-28 {
+  height: 219px;
+  left: 915px;
+  position: absolute;
+  top: 295px;
+  width: 303px;
+}
+
+.hackflix .group-29 {
+  height: 182px;
+  left: 578px;
+  position: absolute;
+  top: 0;
+  width: 478px;
+}
+
+.hackflix .group-30 {
+  height: 150px;
+  left: 188px;
+  position: absolute;
+  top: 277px;
+  width: 519px;
+}
+
+.hackflix .group-31 {
+  height: 183px;
+  left: 0;
+  position: absolute;
+  top: 494px;
+  width: 755px;
+}
+
+.hackflix .text-wrapper-28 {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 201px;
+  left: 619px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: 49px;
+  transform: rotate(-90deg);
+  width: 67px;
+}
+
+.hackflix .partners-highlight {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 135px;
+  left: 1300px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: 550px;
+  transform: rotate(-90deg);
+  width: 67px;
+}
+
+.hackflix .highlights {
+  align-items: flex-start;
+  display: flex;
+  gap: 136px;
+  left: 20px;
+  padding: 0px 0px 0px 50px;
+  position: absolute;
+  top: 5614px;
+  width: 1400px;
+}
+
+.hackflix .highlight-highlight {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  top: 180px;
+  font-weight: 400;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  margin-left: -222px;
+  position: relative;
+  transform: rotate(90deg);
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hackflix .highlights-2 {
+  height: 215.75px;
+  position: relative;
+  width: 766px;
+}
+
+.hackflix .highlight {
+  align-items: flex-end;
+  display: inline-flex;
+  flex-direction: column;
+  height: 133px;
+  left: 0;
+  position: absolute;
+  top: 83px;
+}
+
+.hackflix .highlight-points {
+  height: 257px !important;
+  left: unset !important;
+  margin-bottom: -124px !important;
+  top: unset !important;
+}
+
+.hackflix .text-wrapper-31 {
+  color: #ffffff;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 54px;
+  letter-spacing: 3.5px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.hackflix .sponsers {
+  height: 778px;
+  left: 54px;
+  position: absolute;
+  top: 3739px;
+  width: 1358px;
+}
+
+.hackflix .sponsers-2 {
+  height: 688px;
+  left: 0;
+  position: absolute;
+  top: 90px;
+  width: 1362px;
+}
+
+.hackflix .text-wrapper-32 {
+  color: #ffffff33;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 135px;
+  left: 0;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  opacity: 0.6;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+  width: 495px;
+}
+
+.hackflix .overlap-group-4 {
+  height: 185px;
+  left: 0;
+  position: absolute;
+  top: 247px;
+  width: 1243px;
+}
+
+.hackflix .text-wrapper-33 {
+  color: #ffffff33;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 135px;
+  left: 0;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  opacity: 0.6;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 495px;
+}
+
+.hackflix .frame-29 {
+  align-items: center;
+  display: inline-flex;
+  gap: 61px;
+  left: 332px;
+  position: absolute;
+  top: 0;
+}
+
+.hackflix .rectangle-20 {
+  height: 185px;
+  object-fit: cover;
+  position: relative;
+  width: 182px;
+}
+
+.hackflix .text-wrapper-34 {
+  color: #ffffff33;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 116px;
+  left: 0;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  opacity: 0.6;
+  position: absolute;
+  top: 501px;
+  white-space: nowrap;
+}
+
+.hackflix .rectangle-21 {
+  height: 185px;
+  left: 666px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.hackflix .frame-30 {
+  align-items: flex-end;
+  display: inline-flex;
+  gap: 51px;
+  left: 242px;
+  position: absolute;
+  top: 503px;
+}
+
+.hackflix .text-wrapper-35 {
+  color: #ffffff;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 315px;
+  letter-spacing: 3.5px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.hackflix .venue-2 {
+  height: 454px;
+  left: 195px;
+  position: absolute;
+  top: 6204px;
+  width: 1175px;
+}
+
+.hackflix .venue-highlight {
+  color: #ffffff1a;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 166px;
+  font-weight: 400;
+  height: 116px;
+  left: 859px;
+  letter-spacing: -2.49px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.hackflix .LD-engineering {
+  color: #ffffff;
+  font-family: "Bebas Neue", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 180px;
+  letter-spacing: 3.5px;
+  line-height: normal;
+  position: absolute;
+  top: 370px;
+}
+
+.hackflix .venue-instance {
+  left: 0 !important;
+  opacity: 0.3 !important;
+  position: absolute !important;
+  top: 153px !important;
+}

@@ -1,0 +1,117 @@
+.venue {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 36px;
+  justify-content: center;
+  position: relative;
+}
+
+.venue .venue-images {
+  position: relative;
+}
+
+.venue .rectangle-10 {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 148px;
+}
+
+.venue .rectangle-11 {
+  left: 224px;
+  object-fit: cover;
+  position: absolute;
+  width: 148px;
+}
+
+.venue .rectangle-12 {
+  left: 424px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 148px;
+}
+
+.venue .rectangle-13 {
+  left: 648px;
+  object-fit: cover;
+  position: absolute;
+  width: 148px;
+}
+
+.venue .rectangle-14 {
+  object-fit: cover;
+  position: absolute;
+  width: 148px;
+}
+
+.venue.venue-props {
+  left: 18px;
+  top: 370px;
+}
+
+.venue.venue-mouse-enter {
+  left: 1342px;
+  top: 135px;
+}
+
+.venue.venue-props .venue-images {
+  height: 20px;
+  width: 1054px;
+}
+
+.venue.venue-mouse-enter .venue-images {
+  height: 394px;
+  width: 1044px;
+}
+
+.venue.venue-props .rectangle-10 {
+  height: 20px;
+  top: 0;
+}
+
+.venue.venue-mouse-enter .rectangle-10 {
+  height: 314px;
+  top: 58px;
+}
+
+.venue.venue-props .rectangle-11 {
+  height: 20px;
+  top: 0;
+}
+
+.venue.venue-mouse-enter .rectangle-11 {
+  height: 198px;
+  top: 140px;
+}
+
+.venue.venue-props .rectangle-12 {
+  height: 19px;
+}
+
+.venue.venue-mouse-enter .rectangle-12 {
+  height: 280px;
+}
+
+.venue.venue-props .rectangle-13 {
+  height: 19px;
+  top: 0;
+}
+
+.venue.venue-mouse-enter .rectangle-13 {
+  height: 224px;
+  top: 170px;
+}
+
+.venue.venue-props .rectangle-14 {
+  height: 19px;
+  left: 906px;
+  top: 0;
+}
+
+.venue.venue-mouse-enter .rectangle-14 {
+  height: 242px;
+  left: 896px;
+  top: 96px;
+}

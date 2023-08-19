@@ -1,0 +1,73 @@
+.frame {
+  align-items: center;
+  display: flex;
+  gap: 121px;
+  justify-content: center;
+  left: -3729px;
+  position: relative;
+  top: -889px;
+  width: 1070px;
+}
+
+.frame .vector {
+  height: 35.82px;
+  position: relative;
+  width: 129.7px;
+}
+
+.frame .nav {
+  align-items: center;
+  border-radius: 11px;
+  box-shadow: inset 1px 1px 1px #ffffff1a, 0px 4px 4px #00000040;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 21px;
+  padding: 18px 39px;
+  position: relative;
+}
+
+.frame .navbar-button {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.54px;
+  line-height: 27px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame .span {
+  background-color: #e95322;
+  border: 1px solid;
+  border-color: #243149;
+  border-radius: 2px;
+  height: 30px;
+  position: relative;
+  width: 3px;
+}
+
+.frame .register-wrapper {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 9px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px 22px;
+  position: relative;
+}
+
+.frame .register {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.54px;
+  line-height: 27px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
